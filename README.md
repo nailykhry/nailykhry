@@ -1,6 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+### Hi there! I'm Naily Khairiya 👋
 
+# 💫 About Me:
+🔭 I’m currently working on Website Development Project<br>
+🌱 I’m currently learning microservices architecture and optimizing backend performance for large-scale applications.<br>
+👯 I’m looking to collaborate on open-source projects that focus on backend development<br>
+🤝 I’m looking for help with mastering CI/CD, Kubernetes, and advanced Docker techniques to further streamline my development workflow.<br>
+💬 Ask me about Backend Development<br>
+📩 How to reach me: nailykhairiya@gmail.com <br>
+⚡ Fun fact: I love trying new things, whether it's exploring different cuisines, picking up new hobbies, or learning new skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nailykhairiya) 
